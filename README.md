@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DokgoSx
-🛠 Pentester
+🛠 Pentester /n
 🐞 Developer
 📊 Blogger
 🤔 DevOps
